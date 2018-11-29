@@ -19,6 +19,8 @@ use \Illuminate\Support\Facades\Route;
 //,'middleware' => 'Start'
 Route::group(['namespace' => 'Client'],function (){
     Route::get('/','IndexController@index')->name('home');
+    Route::get('about','IndexController@about')->name('about');
+
     Route::group(['prefix'=>'article'],function(){
         Route::get('/{slug}','ArticelController@get_detail')->name('get_detail_articel');
         Route::post('action_comment','ArticelController@action_comment')->name('action_comment');
@@ -31,7 +33,7 @@ Route::group(['namespace' => 'Client'],function (){
     Route::post('ad_view', 'IndexController@ad_view');
     Route::post('article_view', 'IndexController@article_view');
 
-    Route::get('about', 'ArticelController@getAbout');
+//    Route::get('about', 'ArticelController@getAbout');
 
 });
 

@@ -90,6 +90,11 @@ class IndexController extends Controller
     {
         return redirect('');
     }
+    public function about()
+    {
+//        dd('/ok');
+        return view('client.index.about');
+    }
 
     public function time()
     {

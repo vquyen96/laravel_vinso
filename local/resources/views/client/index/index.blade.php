@@ -171,12 +171,7 @@
                     </div>
                 </div>
             </div>
-            {{--<div class="section7Item" style="background: url('images/Layer 9.png') no-repeat center /cover"></div>--}}
-            {{--<div class="section7Item" style="background: url('images/Layer 10.png') no-repeat center /cover"></div>--}}
-            {{--<div class="section7Item" style="background: url('images/Layer 11.png') no-repeat center /cover"></div>--}}
-            {{--<div class="section7Item" style="background: url('images/Layer 12.png') no-repeat center /cover"></div>--}}
-            {{--<div class="section7Item" style="background: url('images/Layer 13.png') no-repeat center /cover"></div>--}}
-            @endfor
+           @endfor
         </section>
     </div>
 @stop
