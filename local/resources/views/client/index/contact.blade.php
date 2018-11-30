@@ -27,7 +27,7 @@
                                     <a href="">Home</a>
                                 </div>
                                 <div class="breadcrumbItem">
-                                    <a href="">About</a>
+                                    <a href="">Contact</a>
                                 </div>
                             </div>
                         </div>
@@ -118,41 +118,6 @@
                                     </div>
                                 </div>
 
-                            </div>
-                        </div>
-                        <div class="borDer">
-                            <div class="borderLeft"></div>
-                            <div class="borderRight"></div>
-                        </div>
-                        <div class="certification">
-                            <div class="certificationTitle txt40_20">
-                                Certifications
-                            </div>
-                            <div class="row">
-                                <div class="col-sm-4 col-12">
-                                    <div class="certificationItem">
-                                        <div class="certificationItemImg" style="background: url('images/Group 1.png') no-repeat center /cover;"></div>
-                                        <div class="certificationItemContent">
-                                            Google Certified
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-4 col-12">
-                                    <div class="certificationItem">
-                                        <div class="certificationItemImg" style="background: url('images/Group 1.png') no-repeat center /cover;"></div>
-                                        <div class="certificationItemContent">
-                                            Google Certified
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-4 col-12">
-                                    <div class="certificationItem">
-                                        <div class="certificationItemImg" style="background: url('images/Group 1.png') no-repeat center /cover;"></div>
-                                        <div class="certificationItemContent">
-                                            Google Certified
-                                        </div>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>

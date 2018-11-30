@@ -20,6 +20,7 @@ use \Illuminate\Support\Facades\Route;
 Route::group(['namespace' => 'Client'],function (){
     Route::get('/','IndexController@index')->name('home');
     Route::get('about','IndexController@about')->name('about');
+    Route::get('contact','IndexController@contact')->name('contact');
 
     Route::group(['prefix'=>'article'],function(){
         Route::get('/{slug}','ArticelController@get_detail')->name('get_detail_articel');

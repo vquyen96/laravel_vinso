@@ -9,7 +9,7 @@
                     <a href="" class="headerMainItem">
                         qualiti
                     </a>
-                    <a href="" class="headerMainItem">
+                    <a href="about" class="headerMainItem">
                         about vinso
                     </a>
                     <a href="" class="headerMainItem">

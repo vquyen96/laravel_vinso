@@ -95,6 +95,10 @@ class IndexController extends Controller
 //        dd('/ok');
         return view('client.index.about');
     }
+    public function contact(){
+        return view('client.index.contact');
+
+    }
 
     public function time()
     {

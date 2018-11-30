@@ -95,3 +95,35 @@ section {
 .welcomeItemNavContent:last-child {
     display: none;
 }
+
+
+.borDer {
+    display: flex;
+    margin-bottom: 50px;
+}
+.borderLeft {
+    border-bottom: 1px solid #17223a;
+    width: 58px;
+    margin-right: 10px;
+    flex-shrink: 0;
+}
+.borderRight {
+    border-bottom: 1px solid #d3d3d3;
+    flex: 1;
+}
+.certificationTitle{
+    margin-bottom: 40px
+}
+.certificationItemImg {
+    margin-bottom: 40px;
+}
+.certificationItemImg:after {
+    content: '';
+    display: block;
+    padding-bottom: 80%;
+}
+.certificationItemContent {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 50px;
+}
