@@ -42,45 +42,82 @@
                         <div class="welcome">
                             <div class="welcomeItem">
                                 <div class="welcomeItemBigTitle txt40_20">
-                                    welcome to vinso
+                                    contact
                                 </div>
-                                <div class="welcomeItemContent">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </div>
-                                <div class="welcomeItemTitle">
-                                    Unordered & Ordered Lists
-                                </div>
-                                <div class="list_vinso">
-                                    <div class="list_vinso_item">
-                                        <div class="list_vinso_item_icon">
-                                            <img src="images/icon.png" alt="">
+                                <div class="welcomeItemLine d-flex">
+                                    <div class="welcomeItemLineLeft d-flex align-items-center">
+                                        <img src="images/map_icon.png">
+                                    </div>
+                                    <div class="welcomeItemLineRight">
+                                        <div class="welcomeItemLineRightTitle">
+                                            Postal Address:
                                         </div>
-                                        <div class="list_vinso_item_content">
-                                            Online Courses with full discount systems.
+                                        <div class="welcomeItemLineRightContent">
+                                            No. 1 Le Thanh Tong, May To Ward, Ngo Quyen Dist. Hai Phong
                                         </div>
                                     </div>
-                                    <div class="list_vinso_item">
-                                        <div class="list_vinso_item_icon">
-                                            <img src="images/icon.png" alt="">
+                                </div>
+                                <div class="welcomeItemLine d-flex">
+                                    <div class="flex-fill d-flex">
+                                        <div class="welcomeItemLineLeft d-flex align-items-center">
+                                            <img src="images/phone_icon.png">
                                         </div>
-                                        <div class="list_vinso_item_content">
-                                            Online Courses with full discount systems.
+                                        <div class="welcomeItemLineRight">
+                                            <div class="welcomeItemLineRightTitle">
+                                                Phone:
+                                            </div>
+                                            <div class="welcomeItemLineRightContent">
+                                                ( 84 ) 326 483 884
+                                            </div>
                                         </div>
                                     </div>
-                                    <div class="list_vinso_item">
-                                        <div class="list_vinso_item_icon">
-                                            <img src="images/icon.png" alt="">
+                                    <div class="flex-fill d-flex">
+                                        <div class="welcomeItemLineLeft d-flex align-items-center">
+                                            <img src="images/skype_icon.png">
                                         </div>
-                                        <div class="list_vinso_item_content">
-                                            Online Courses with full discount systems.
+                                        <div class="welcomeItemLineRight">
+                                            <div class="welcomeItemLineRightTitle">
+                                                Skype:
+                                            </div>
+                                            <div class="welcomeItemLineRightContent">
+                                               Tran Anh Design
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="welcomeItemLine d-flex">
+                                    <div class="flex-fill d-flex">
+                                        <div class="welcomeItemLineLeft d-flex align-items-center">
+                                            <img src="images/mail_icon.png">
+                                        </div>
+                                        <div class="welcomeItemLineRight">
+                                            <div class="welcomeItemLineRightTitle">
+                                                Email:
+                                            </div>
+                                            <div class="welcomeItemLineRightContent">
+                                                karin.design.dev@gmail.com
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="flex-fill d-flex">
+                                        <div class="welcomeItemLineLeft d-flex align-items-center">
+                                            <img src="images/web_icon.png">
+                                        </div>
+                                        <div class="welcomeItemLineRight">
+                                            <div class="welcomeItemLineRightTitle">
+                                                Web:
+                                            </div>
+                                            <div class="welcomeItemLineRightContent">
+                                               vinso.vn
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="welcomeItem " style="background: url('images/Left_content.png') no-repeat center /cover">
+                            <div class="welcomeItem " style="background: url('images/map_img.png') no-repeat center /cover">
                             </div>
                         </div>
-                        <div class="welcome">
+                       <!--  <div class="welcome">
                             <div class="welcomeItem" style="background: url('images/Layer 4.png') no-repeat center /cover"></div>
                             <div class="welcomeItem">
                                 <div class="welcomeNav">
@@ -118,6 +155,41 @@
                                     </div>
                                 </div>
 
+                            </div>
+                        </div> -->
+                        <div class="borDer">
+                            <div class="borderLeft"></div>
+                            <div class="borderRight"></div>
+                        </div>
+                        <div class="certification">
+                            <div class="certificationTitle txt40_20">
+                                Certifications
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-4 col-12">
+                                    <div class="certificationItem">
+                                        <div class="certificationItemImg" style="background: url('images/Group 1.png') no-repeat center /cover;"></div>
+                                        <div class="certificationItemContent">
+                                            Google Certified
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4 col-12">
+                                    <div class="certificationItem">
+                                        <div class="certificationItemImg" style="background: url('images/Group 1.png') no-repeat center /cover;"></div>
+                                        <div class="certificationItemContent">
+                                            Google Certified
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4 col-12">
+                                    <div class="certificationItem">
+                                        <div class="certificationItemImg" style="background: url('images/Group 1.png') no-repeat center /cover;"></div>
+                                        <div class="certificationItemContent">
+                                            Google Certified
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>

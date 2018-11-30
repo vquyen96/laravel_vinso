@@ -127,3 +127,26 @@ section {
     text-align: center;
     margin-bottom: 50px;
 }
+
+
+
+
+.welcomeItemLine.d-flex {
+    padding: 15px 0;
+    border-top: 1px solid #c5c3c3;
+}
+.welcomeItemLineLeft {
+    width: 68px;
+}
+.welcomeItemLineRightTitle {
+    font-size: 18px;
+    font-weight: 600;
+}
+.welcomeItemLineRightContent {
+    font-size: 14px;
+    color: #7f7e7e;
+}
+.flex-fill {
+    -ms-flex: 1 !important;
+    flex: 1 !important;
+}
