@@ -194,9 +194,12 @@ a.btnRed {
 }
 .sectionMain{
 	padding: 85px 0;
-	text-align: center;
-	width: 625px;
+	/*text-align: center;*/
+	/*width: 625px;*/
 	margin: auto;
+}
+.section6 .sectionMain{
+    width: 625px;
 }
 .section7Item {
 	flex: 1;

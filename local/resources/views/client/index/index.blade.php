@@ -122,7 +122,7 @@
                             <div class="cl_303030 sectionMainContent">
                                 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                             </div>
-                            <div class="btnReacmore">
+                            <div class="btnReacmore ">
                                 <a href="#" class="btnRed">
                                     read more
                                 </a>
@@ -148,7 +148,7 @@
             </div>
         </section>
         <section class="section6">
-            <div class="sectionMain">
+            <div class="sectionMain text-center">
                 <div class="txt40_20 sectionMainTitle">
                     Case Studies
                 </div>
